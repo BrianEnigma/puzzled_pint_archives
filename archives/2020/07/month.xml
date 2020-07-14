@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE PPMonth SYSTEM "../../../month.dtd">
+<PPMonth>
+	<year>2020</year>
+	<month>07</month>
+	<title>Puzzled Pint's 10th Anniversary</title>
+	<icon href="icon.png"/>
+	<notes>Thank you to this month's authors: Matthew Shields, Ana Roeszler, Bernard Sanders, Brian Enigma, Matt Cleinman, Jennifer Dumont, and Andrea Blumberg! (Portland, OR)
+	</notes>
+	<location>
+		<puzzle>
+			<title>Time Travel</title>
+			<file href="00-location.pdf"/>
+			<hint>Each of the clues describes a movie, or a television series.</hint>
+			<hint>Use the beginning (first letter) of the title for each movie or TV show.
+
+The titles are:
+
+- Hot Tub Time Machine
+- Planet of the Apes
+- The Time Machine
+- Bill and Ted's Excellent Adventure
+- Doctor Strange
+- Donnie Darko
+- Midnight in Paris
+- Doctor Who
+- Groundhog Day</hint>
+			<hint>Shift the first letter by the time zone of the city in that clue. (Use the time zone provided, which should account for summer time where in use.)
+
+EXAMPLE: the first letter is H, and the time zone is UTC+12; shifting H forward in the alphabet by 12 gives the letter T.</hint>
+			<hint>The solution is TIME FLIES.</hint>
+			<solution href="00-location-solution.pdf"/>
+		</puzzle>
+		<answerword>timeflies</answerword>
+	</location>
+
+	<puzzle>
+		<title>Tears of a Clown</title>
+		<file href="01-tears_of_a_clown.pdf"/>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<solution href="01-tears_of_a_clown-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>History of Dance</title>
+		<file href="02-history_of_dance.pdf"/>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<solution href="02-history_of_dance-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Nations of the World</title>
+		<file href="03-nations_of_the_world.pdf"/>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<solution href="03-nations_of_the_world-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Beyond Thunderdome</title>
+		<file href="04-beyond_thunderdome.pdf"/>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<solution href="04-beyond_thunderdome-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Pick up the Pieces (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Exclamation Pints! (bonus puzzle)</title>
+		<file href="06-bonus.pdf"/>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
